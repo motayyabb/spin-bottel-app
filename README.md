@@ -1,16 +1,21 @@
-# spinn
+Spin the Bottle Game - Flutter
+A fun, interactive "Spin the Bottle" game developed with Flutter, where users can enter player names, select different bottle designs, and spin to randomly choose a player and challenge!
 
-A new Flutter project.
+Features
+Player Entry: Users can enter up to 10 player names.
+Bottle Selection: Choose from multiple bottle designs before spinning.
+Bottle Spinning Animation: Realistic bottle spin with random player selection.
+Challenges: A variety of random challenges for selected players.
+Customizable UI: Stylish and user-friendly interface with color-coded player avatars.
+Technologies Used
+Flutter for the front-end and animations.
+Dart for logic and app structure.
+Screenshots
+![Capture](https://github.com/user-attachments/assets/709cbf5e-41fb-4f07-94d0-12a872cb9dbe)
+![bottle](https://github.com/user-attachments/assets/f9d750e4-8b22-45d3-a436-def61d7ab05b)
+![second page](https://github.com/user-attachments/assets/261f9e7c-0167-4047-919f-cbbc7ec5951a)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+License
+This project is open-source and available under the MIT License.
